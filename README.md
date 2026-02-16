@@ -1,6 +1,10 @@
 # 🌌 Kageland
 
+---
+
 <img width="1903" height="991" alt="resim" src="https://github.com/user-attachments/assets/e611efb7-b0ba-4400-beb3-36b6d50605f8" />
+
+---
 
 **Kageland** is a futuristic, space-themed landing experience built around a floating island world.  
 At its core lies a living 3D planet that reacts to your presence — subtle, responsive, and calm.
